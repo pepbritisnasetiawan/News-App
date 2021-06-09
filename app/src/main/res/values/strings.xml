@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="news_name">News Name</string>
+    <string name="detail">Detail</string>
+    <string name="Profile">profile</string>
+    <string name="my_name">Pepbri Tisna Setiawan</string>
+    <string name="email">pepbritisnasetiawan@gmail.com</string>
+    <string name="tv_title_name">Title Name</string>
+    <string name="tv_content">Content</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+</resources>
